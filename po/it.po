@@ -162,7 +162,7 @@ msgstr "I Monasteri Tedeschi"
 
 #: src/main/java/com/jcloisterzone/Expansion.java:98
 msgid "Castles in Germany"
-msgstr ""
+msgstr "Castelli in Germania"
 
 #: src/main/java/com/jcloisterzone/Expansion.java:99
 #: src/main/java/com/jcloisterzone/Expansion.java:100
@@ -171,7 +171,7 @@ msgstr ""
 
 #: src/main/java/com/jcloisterzone/Expansion.java:101
 msgid "The Watchtower"
-msgstr ""
+msgstr "La Torre di Guardia"
 
 #: src/main/java/com/jcloisterzone/Expansion.java:104
 msgid "The Flier"
@@ -259,7 +259,7 @@ msgstr "Rendi casuale l''ordine di gioco"
 
 #: src/main/java/com/jcloisterzone/game/Rule.java:13
 msgid "Use pig herds independently (without T&B expansion)"
-msgstr ""
+msgstr "Utilizzare allevamenti di suini in modo indipendente (senza espansione T & B)"
 
 #: src/main/java/com/jcloisterzone/game/Rule.java:15
 msgid "Princess MUST remove a knight from city."
